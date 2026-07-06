@@ -1,5 +1,7 @@
 # PM2008 Tools Preview
 
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/c357b6da-9b0a-4357-8aa9-97c70722d42c" />
+
 用于修改 PM2008 键位映射及部分其他设置的辅助工具。
 
 > 仅适用于截止 2026/7/5 前发布的版本。由于游戏本体及相关功能仍处于测试阶段，设置不保证在所有环境下有效，也不保证能够获得预期效果。
